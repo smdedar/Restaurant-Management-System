@@ -1,2 +1,2 @@
-# Restaurant-Management-System---BurgerkKing---By-Dedar
+# Restaurant-Management-System---BurgerKing---By-Dedar
 Restaurant Management System
