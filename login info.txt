@@ -1,0 +1,12 @@
+            LogIn Window
+
+Username - admin
+password - admin
+             
+             Employer Information Window
+
+Employer ID - 1001
+              1002
+          
+
+fb/thededar
